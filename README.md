@@ -23,7 +23,9 @@
 
 
 
-
+# Nivel profesional identificado
+#Junior / Entry Level (L1)
+#Rol operativo orientado a ejecución, aprendizaje continuo y apego a procesos definidos (ITIL, SLA, flujos de escalamiento).
 
 
 #   Herramientas que dominas
