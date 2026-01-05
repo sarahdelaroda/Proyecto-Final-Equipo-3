@@ -1,11 +1,11 @@
 # Proyecto Final – Mesa de Servicio / Soporte Técnico Nivel 1 (L1)
 
-# Objetivos
+# 
 Este proyecto presenta el perfil profesional de un Especialista de Soporte Técnico Nivel 1 (L1), enfocado en la atención a usuarios corporativos, resolución de incidencias de primer contacto y cumplimiento de SLA, alineado con prácticas ITIL y vacantes reales del mercado laboral.
 
 ---
 
-## 🎯 Objetivos del Proyecto
+# Objetivos 
 - Definir un perfil profesional Junior / Entry Level en Mesa de Servicio.
 - Documentar procesos clave de soporte TI en entornos empresariales.
 - Demostrar conocimiento en ticketing, troubleshooting, redes LAN y seguridad básica.
