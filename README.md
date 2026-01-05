@@ -1,7 +1,7 @@
 # Proyecto Final – Mesa de Servicio / Soporte Técnico Nivel 1 (L1)
  Equipo 3
  - Martin Acosta Navarro
- - Eliezer Changala
+ - Eliezer Chagala Carvajal
  - Cynthia Cardona
  - Sabina Palomares
  - Nataly Rodriguez 
