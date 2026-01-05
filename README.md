@@ -1,10 +1,10 @@
 # Proyecto Final – Mesa de Servicio / Soporte Técnico Nivel 1 (L1)
  Equipo 3
- -Martin Acosta Navarro
- -Eliezer Changala
- -Cynthia Cardona
- -Sabina Palomares
- -Nataly Rodriguez 
+ - Martin Acosta Navarro
+ - Eliezer Changala
+ - Cynthia Cardona
+ - Sabina Palomares
+ - Nataly Rodriguez 
 # 
 Este proyecto presenta el perfil profesional de un Especialista de Soporte Técnico Nivel 1 (L1), enfocado en la atención a usuarios corporativos, resolución de incidencias de primer contacto y cumplimiento de SLA, alineado con prácticas ITIL y vacantes reales del mercado laboral.
 
