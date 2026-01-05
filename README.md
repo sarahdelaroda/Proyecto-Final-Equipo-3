@@ -4,3 +4,47 @@
 -
 # Documentacion del Proyecto
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Enfoque de la presentación
+#Soporte de redes LAN para entornos empresariales.
+#Mantenimiento Preventivo vs. Correctivo: Cómo evitar caídas de red antes de que sucedan.
+#Mantenimiento preventivo : se realiza para evitar fallos, incluye la actualización de firmware.
+#Mantenimiento correctivo es la respuesta a una falla ya ocurrida, se enfoca en restaurar el servicio lo más rápido posible.
+
+#Gestión de Incidencias (Ticketing): Cómo se reportan y priorizan los problemas en una empresa.
+#*Priorización basado en matriz de impacto y urgencia ejemplo (prioridad alta: el servidor principal ha colapsado. prioridad baja : una impresora en una oficina secundaria no conecta.)
+
+#Troubleshooting: Metodología para resolver problemas de conectividad. Se utiliza el modelo OSI de abajo hacia arriba:Capa física: verificar cables y conexiones.
+#Capa de enlace: revisar comunicación por dirección MAC (switch).
+#Capa de red: comprobar IP válida.
+#Capa de aplicación: validar si el problema es del software o navegador.
+
+#Seguridad: Amenazas comunes y mitigación. Amenazas comunes como bucles de red, causados al conectar ambos extremos de un cable al mismo switch.
+#Protocolos Clave: DHCP, DNS, VLANs y Routing básico.VLANs (Virtual LANs): VLANs: segmentan la red lógicamente para mejorar seguridad y reducir tráfico innecesario.
+#DHCP: asigna direcciones IP automáticamente.
+#DNS: traduce nombres de dominio a direcciones IP; si falla, parece que no hay internet.
+#Routing básico: permite la comunicación entre VLANs mediante routers o switches de capa 3.
