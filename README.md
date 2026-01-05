@@ -27,12 +27,12 @@
 
 
 #   Herramientas que dominas
-# Sistemas de tickets (Service Desk / Mesa de Ayuda)
-# Office 365 (Outlook, Teams, Word, Excel)
-# Google Workspace
-# Sistemas operativos Windows
-# Acceso remoto y diagnóstico de fallas
-# Documentación de incidencias y seguimiento
+#Sistemas de tickets (Service Desk / Mesa de Ayuda)
+#Office 365 (Outlook, Teams, Word, Excel)
+#Google Workspace
+#Sistemas operativos Windows
+#Acceso remoto y diagnóstico de fallas
+#Documentación de incidencias y seguimiento
 
 
 
