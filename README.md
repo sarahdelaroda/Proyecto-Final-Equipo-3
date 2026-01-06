@@ -4,7 +4,8 @@
  - Eliezer Chagala Carvajal
  - Cynthia Cardona
  - Sabina Palomares
- - Nataly Rodriguez 
+ - Nataly Rodriguez
+ - Paulina kelly Roan Santacruz
 # 
 Este proyecto presenta el perfil profesional de un Especialista de Soporte Técnico Nivel 1 (L1), enfocado en la atención a usuarios corporativos, resolución de incidencias de primer contacto y cumplimiento de SLA, alineado con prácticas ITIL y vacantes reales del mercado laboral.
 
