@@ -57,8 +57,9 @@ Rol operativo orientado a:
 ---
 
 ## 📄 Documentación
-Toda la documentación detallada se encuentra en la carpeta `/docs`.
+[Toda la documentación detallada se encuentra en Base de conocimiento]
 
+(https://docs.google.com/document/d/1u19TpiHos64DDmNLrOWlupHP5TKw69v-/edit?usp=sharing&ouid=109191746386043152079&rtpof=true&sd=true)
 ---
 
 ## 🚀 Autoría
