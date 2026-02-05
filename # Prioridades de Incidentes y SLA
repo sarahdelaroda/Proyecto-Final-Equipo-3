@@ -1,5 +1,23 @@
 # Prioridades de Incidentes y SLA
 
+Esta sección de la documentación describe, desde una vista externa, cómo se priorizan los casos reportados al área de soporte, considerando impacto, alcance y urgencia.
+
+La priorización se realiza con base en los siguientes criterios:
+
+* **Impacto**: Qué tan grave es la afectación al negocio o a los usuarios.
+
+  * *Ejemplo*: Un servicio crítico caído para toda la empresa tiene impacto alto.
+
+* **Alcance**: Cuántos usuarios o áreas están afectadas.
+
+  * *Ejemplo*: Un problema que afecta a toda la organización tiene mayor prioridad que uno individual.
+
+* **Urgencia**: Qué tan rápido debe resolverse el caso para evitar consecuencias mayores.
+
+  * *Ejemplo*: Un fallo que impide la operación diaria requiere atención inmediata.
+
+Con base en estos criterios, los casos se clasifican por prioridad y se les asignan tiempos de respuesta y resolución conforme al SLA.
+
 | Prioridad | Caso                                                              | Justificación                                                       | SLA                                                |
 | --------- | ----------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------- |
 | **Alta**  | El servidor de correo corporativo está caído para toda la empresa | Impacto crítico, afecta a todos los usuarios                        | Respuesta inmediata, resolución en **4 horas**     |
