@@ -1,0 +1,7 @@
+# Prioridades de Incidentes y SLA
+
+| Prioridad | Caso                                                              | Justificación                                                       | SLA                                                |
+| --------- | ----------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------- |
+| **Alta**  | El servidor de correo corporativo está caído para toda la empresa | Impacto crítico, afecta a todos los usuarios                        | Respuesta inmediata, resolución en **4 horas**     |
+| **Media** | Un usuario no puede imprimir en la impresora de red compartida    | Impacto limitado a un área, existen alternativas (otras impresoras) | Respuesta en **1 hora**, resolución en **8 horas** |
+| **Baja**  | Solicitud de instalación de software autorizado en una PC         | No interrumpe operaciones, es una petición planificada              | Entrega en **48–72 horas** según SLA               |
