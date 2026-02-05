@@ -1,0 +1,30 @@
+##Phishing Y Tú. Como evitar un incidente de ciberseguridad (manual practico para los agentes).
+
+# Manejo de Correos Sospechosos (Phishing)
+
+Esta sección de la documentación describe, desde una perspectiva preventiva y operativa, cómo identificar y manejar correos electrónicos sospechosos que puedan representar un intento de phishing, así como las acciones recomendadas para reducir riesgos de seguridad en la organización.
+
+Un correo de phishing suele intentar engañar al usuario haciéndose pasar por una entidad legítima (TI, bancos, proveedores o servicios conocidos) con el objetivo de obtener información sensible, como credenciales, datos personales o acceso a sistemas internos.
+
+Los correos sospechosos pueden identificarse considerando las siguientes señales de riesgo:
+
+* **Remitente inusual o dominio incorrecto**:  
+  *Ejemplo*: soporte@micros0ft-secure.com en lugar de un dominio oficial.
+* **Lenguaje de urgencia o amenaza**:  
+  *Ejemplo*: “Su cuenta será bloqueada si no verifica su información inmediatamente”.
+* **Enlaces o adjuntos inesperados**:  
+  *Ejemplo*: archivos .zip, .html o enlaces acortados sin contexto.
+* **Errores gramaticales o mensajes genéricos**:  
+  *Ejemplo*: “Estimado usuario” sin personalización.
+
+Ante la detección de un correo con estas características, el usuario **no debe interactuar** con el contenido (no hacer clic en enlaces ni descargar archivos) y debe reportarlo de inmediato al área de soporte.
+
+Desde el punto de vista operativo, los incidentes relacionados con phishing se manejan considerando el nivel de impacto y riesgo potencial, como se muestra a continuación:
+
+| Prioridad | Caso                                                                 | Justificación                                                                 | Acción Inicial                                                  |
+| --------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **Alta**  | Usuario ingresó credenciales en un enlace sospechoso                 | Riesgo inmediato de compromiso de cuenta y acceso no autorizado               | Reset de contraseña, cierre de sesiones, escalamiento inmediato |
+| **Media** | Usuario recibió correo de phishing y lo reportó sin interactuar      | No hubo impacto, pero existe riesgo potencial                                 | Análisis del correo y bloqueo del remitente                     |
+| **Baja**  | Correo sospechoso detectado por filtros automáticos                   | Riesgo bajo, sin interacción del usuario                                      | Monitoreo y registro                                            |
+
+Como medida preventiva, se recuerda a los usuarios que el área de TI **nunca solicitará contraseñas por correo electrónico**, que deben verificar siempre el dominio del remitente antes de interactuar con un mensaje y que cualquier correo inusual debe ser reportado para su validación, incluso si no se ha realizado ninguna acción sobre él.
