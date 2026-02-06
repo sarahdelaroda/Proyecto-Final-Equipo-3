@@ -1,0 +1,140 @@
+Procedimiento: Restablecimiento de Contraseña de Usuario
+Objetivo
+
+Establecer un flujo claro y estandarizado para el restablecimiento de contraseñas en sistemas corporativos, garantizando la continuidad operativa del usuario y el cumplimiento de las políticas de seguridad de la organización.
+
+Alcance
+
+Este procedimiento aplica a:
+
+Usuarios finales que no pueden acceder a los sistemas corporativos.
+
+Área de TI / Soporte encargada de asistir y validar el restablecimiento de credenciales.
+
+Descripción del caso
+
+El usuario reporta la imposibilidad de acceder a uno o más sistemas corporativos debido a problemas con sus credenciales de autenticación. El restablecimiento de contraseña permite recuperar el acceso sin afectar la información ni la configuración del sistema.
+
+Síntomas identificables
+
+Fallo en el inicio de sesión.
+
+Mensajes del sistema como:
+
+“Credenciales inválidas”.
+
+“Contraseña expirada”.
+
+“Cuenta bloqueada por intentos fallidos”.
+
+Causas probables
+
+Olvido de la contraseña actual.
+
+Expiración automática conforme a la política de seguridad.
+
+Bloqueo preventivo de la cuenta tras múltiples intentos incorrectos.
+
+Clasificación del caso
+
+Tipo: Solicitud de acceso / Soporte a usuarios.
+
+Prioridad habitual: Baja o Media.
+
+Media si el acceso es requerido para la operación inmediata del usuario.
+
+Baja si no existe impacto directo en la operación del negocio.
+
+Flujo de atención
+
+Recepción del caso
+
+El usuario reporta el problema vía portal, correo o mesa de ayuda.
+
+Se valida la identidad básica del solicitante.
+
+Ejecución del restablecimiento
+
+El usuario accede al portal corporativo de inicio de sesión.
+
+Selecciona la opción “¿Olvidó su contraseña?”.
+
+Ingresa su usuario o correo corporativo.
+
+Confirma su identidad mediante un código de verificación enviado al medio registrado (correo alterno o SMS).
+
+Introduce el código de verificación en el portal.
+
+Define una nueva contraseña que cumpla con las políticas de seguridad:
+
+Mínimo 8 caracteres.
+
+Letras mayúsculas y minúsculas.
+
+Al menos un número.
+
+Al menos un símbolo especial.
+
+Cierre de sesión global
+
+El sistema fuerza el cierre de sesión en todos los dispositivos previamente autenticados.
+
+Nuevo inicio de sesión
+
+El usuario accede nuevamente con la contraseña actualizada.
+
+Validación
+
+Confirmar que el usuario puede iniciar sesión sin errores.
+
+Verificar que la contraseña cumple con las políticas de seguridad definidas.
+
+Corroborar que el acceso a los sistemas requeridos fue restablecido correctamente.
+
+Cierre del caso
+
+Documentar el restablecimiento exitoso en el ticket.
+
+Registrar causa raíz (olvido, expiración o bloqueo).
+
+Marcar el caso como resuelto conforme al SLA.
+
+Recomendaciones preventivas
+
+Informar al usuario sobre la vigencia y fecha de expiración de su contraseña, indicando el periodo definido por la política de seguridad para reducir la probabilidad de recurrencia del caso.
+
+Recomendar el cambio proactivo de contraseña antes de su vencimiento cuando el sistema lo notifique.
+
+Sugerir el uso de un gestor de contraseñas autorizado para el almacenamiento seguro de credenciales.
+
+Recordar al usuario no reutilizar contraseñas anteriores ni emplear contraseñas usadas en servicios personales.
+
+Indicar que múltiples intentos fallidos de autenticación pueden provocar el bloqueo automático de la cuenta como medida de protección.
+
+Comunicación al usuario
+
+Al finalizar el proceso, el área de soporte deberá:
+
+Confirmar que el acceso a los sistemas corporativos ha sido restablecido correctamente.
+
+Explicar de forma breve las buenas prácticas de seguridad relacionadas con el uso y gestión de contraseñas.
+
+Informar los canales de contacto disponibles en caso de que la situación vuelva a presentarse.
+
+Consideraciones de seguridad
+
+El personal de TI no debe solicitar, visualizar ni almacenar contraseñas del usuario bajo ninguna circunstancia.
+
+El restablecimiento debe realizarse únicamente mediante mecanismos oficiales, seguros y auditables.
+
+Cualquier comportamiento inusual detectado durante el proceso deberá ser documentado y notificado conforme a los lineamientos internos de seguridad.
+
+Criterio de cierre
+
+El proceso se considera concluido cuando:
+
+El usuario confirma que puede acceder a los sistemas sin errores.
+
+La nueva contraseña cumple con las políticas de seguridad establecidas.
+
+El restablecimiento fue documentado correctamente en el sistema de gestión de solicitudes.
